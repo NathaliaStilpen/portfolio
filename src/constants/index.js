@@ -43,7 +43,7 @@ export const EXPERIENCES = [
     role: "Desenvolvedor Web",
     company: "180 Soluções",
     description: `Responsável pelo desenvolvimento de aplicações web e mobile utilizando  HTML, CSS e Wordpress`,
-    technologies: ["WordPress", "HTML", "CSS"],
+    technologies: ["WordPress", "HTML", "CSS", "JavaScript"],
   },
 ];
 
