@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "../assets/ns2.png";
 
-import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaInstagram, FaGitlab } from "react-icons/fa";
 
 const Navbar = () => {
   return (
@@ -23,6 +23,13 @@ const Navbar = () => {
           rel="noopener noreferrer"
         >
           <FaGithub />
+        </a>
+        <a
+          href="https://gitlab.com/NathaliaStilpen"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FaGitlab />
         </a>
         <a
           href="https://www.instagram.com/natystiilpen/"
